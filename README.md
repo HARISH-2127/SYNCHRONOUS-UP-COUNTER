@@ -47,7 +47,7 @@ RegisterNumber: 24900543
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![Screenshot 2024-12-25 173615](https://github.com/user-attachments/assets/cb6c2f5f-f76e-4f2d-b310-b17fffccc53c)
+![din de 11](https://github.com/user-attachments/assets/59cae0cd-f8ae-4b17-b54b-9e15fb310d22)
 
 
 **TRUTH TABLE**
